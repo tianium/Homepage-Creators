@@ -3,7 +3,7 @@ base_url = "https://jiaxiang.wang"
 
 title = "个人主页"
 
-author = "王嘉祥"
+author = "大家作"
 
 description = "好奇、探索、创造。个人主页导航网站。"
 
@@ -82,7 +82,7 @@ avif_enable = true
 [[extra.index.widgets]]
 type = "header"
 [extra.index.widgets.value]
-title_1 = "王嘉祥"
+title_1 = "大家作"
 title_2 = "Jiaxiang Wang"
 bio_1 = "专注于科技、音乐等领域<span class=\"inline-word\">跨界创新</span>"
 bio_2 = "分享经验与见解"
@@ -99,7 +99,7 @@ url = "https://github.com/iWangJiaxiang"
 [[extra.index.widgets]]
 type = "author"
 [extra.index.widgets.value]
-name = "王嘉祥"
+name = "大家作"
 avatar = "/img/logo01.webp"
 title = "Team leader, architect,"
 # title = "Team leader, architect, senior engineer, singer songwriter, creator. Engaging in HPC, Cloud, AI and more."
