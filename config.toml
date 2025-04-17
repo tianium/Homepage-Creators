@@ -123,8 +123,8 @@ class = "second-link"
 url = "https://github.com/iWangJiaxiang"
 name = "开发者主页"
 
-
-### [[extra.index.widgets]]
+/*
+[[extra.index.widgets]]
 type = "event"
 [extra.index.widgets.value]
 tip = "大事件"
@@ -230,4 +230,5 @@ bio = "纯静态个人主页主题 (Zola)"
 url = "https://github.com/iWangJiaxiang/Homepage-Creators"
 button = "访问"
 note = "本站主题"
-new = true ###
+new = true
+*/
