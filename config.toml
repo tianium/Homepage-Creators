@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://jiaxiang.wang"
 
-title = "个人主页"
+title = "大家作"
 
 author = "大家作"
 
@@ -23,7 +23,7 @@ highlight_code = false
 [extra]
 
 [extra.site]
-start_year = 2024
+start_year = 2025
 logo = "/img/logo.webp"
 # default to use logo value
 nav_logo = "/img/logo.webp"
@@ -123,7 +123,7 @@ class = "second-link"
 url = "https://github.com/iWangJiaxiang"
 name = "开发者主页"
 
-
+###
 [[extra.index.widgets]]
 type = "event"
 [extra.index.widgets.value]
@@ -231,3 +231,4 @@ url = "https://github.com/iWangJiaxiang/Homepage-Creators"
 button = "访问"
 note = "本站主题"
 new = true
+###
